@@ -1,0 +1,39 @@
+Service Provider
+
+Login,
+Train and View Credit Card Data Set Details, 
+Test Credit Card Score Ratio on Data Sets, 
+View All Loan Eligibility on Credit Card,
+Download Trained Data Sets, 
+View All Remote Users, 
+View Loan Eligibility on Credit Card Ratio Results, 
+View Loan Eligibility on Credit Card Ratio in Bar Chart, 
+View Credit Card Score Ratio Results.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+POST CREDIT CARD DATA SETS,
+SEARCH AND PREDICT LOAN ELIGIBILITY ON CREDIT CARD,
+VIEW YOUR PROFILE.
+
+
+Members
+
+Card_No,
+Card_Holder_Age,
+Bank_Name,
+Payment_History,
+Amounts_Owed,
+Length_of_credit_history,
+New_Credit,
+Credit_Mix,
+Cridit_utilization_Ratio,
+Age_Of_Credit,
+Timely_Repayments_Ratio,
+Total_Accounts,
+Credit_Data_Maintenance ,
+Credit_Score,
+loan_ratio,
+loan_status.
